@@ -1,0 +1,9 @@
+udemay para cursos
+
+python basico
+linux
+nuvens (azure,aws,
+google cloud, oci - oracle cloud)
+GIT
+Docker
+
